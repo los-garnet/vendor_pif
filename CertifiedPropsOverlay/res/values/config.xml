@@ -11,7 +11,7 @@
         <item>MANUFACTURER:Google</item>
         <item>BRAND:google</item>
         <item>MODEL:Pixel 6</item>
-        <item>FINGERPRINT:google/oriole_beta/oriole:15/BP11.241121.013/12873528:user/release-keys</item>
-        <item>VERSION.SECURITY_PATCH:2024-12-05</item>
+        <item>FINGERPRINT:google/oriole_beta/oriole:Baklava/BP22.250124.009/13034193:user/release-keys</item>
+        <item>VERSION.SECURITY_PATCH:2025-02-05</item>
     </string-array>
 </resources>
